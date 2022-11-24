@@ -1,0 +1,8 @@
+a=int(input('the fst num'))
+b=int(input('the sec num'))
+print('a>b is',a>b)
+print('a<b is',a<b)
+print('a==b is',a==b)
+print('a!=b is',a!=b)
+print('a>=b is',a>=b)
+print('a<=b is',a<=b)
